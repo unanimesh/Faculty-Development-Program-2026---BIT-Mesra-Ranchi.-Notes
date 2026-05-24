@@ -1,5 +1,5 @@
 #  Faculty Development Program 2026 - BIT Mesra
-## Session: Green Hydrogen Power Supplies
+## Session 02: Green Hydrogen Power Supplies
 
 ---
 
