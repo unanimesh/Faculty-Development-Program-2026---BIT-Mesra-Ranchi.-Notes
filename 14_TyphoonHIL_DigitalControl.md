@@ -1,5 +1,5 @@
 #  Faculty Development Program 2026 - BIT Mesra
-## Session 19: Typhoon HIL Solution for Patient Digital Control Technique Fostering Sustainable Systems
+## Session 14: Typhoon HIL Solution for Patient Digital Control Technique Fostering Sustainable Systems
 
 ---
 
