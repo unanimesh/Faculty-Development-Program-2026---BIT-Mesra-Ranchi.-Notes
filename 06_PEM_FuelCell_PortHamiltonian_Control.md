@@ -1,5 +1,5 @@
 #  Faculty Development Program 2026 - BIT Mesra
-## Session: PEM Fuel Cell Stability via Port-Hamiltonian Control
+## Session 06: PEM Fuel Cell Stability via Port-Hamiltonian Control
 
 ---
 
