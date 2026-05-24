@@ -1,5 +1,5 @@
 #  Faculty Development Program 2026 - BIT Mesra
-## Session: Z-Source Inverter Bidirectional EV Charger for V2G Applications
+## Session 03: Z-Source Inverter Bidirectional EV Charger for V2G Applications
 
 ---
 
